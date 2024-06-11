@@ -1,0 +1,1680 @@
+control-set-start with theta: 0 has type: 0
+control-set-start with theta: 14 has type: 9
+control-set-start with theta: 15 has type: 18
+control-set-start with theta: 13 has type: 29
+control-set-start with theta: 10 has type: 55
+control-set-start with theta: 11 has type: 68
+control-set-start with theta: 9 has type: 90
+control-set-start with theta: 5 has type: 107
+control-set-start with theta: 4 has type: 122
+control-set-start with theta: 3 has type: 125
+control-set-start with theta: 6 has type: 137
+control-set-start with theta: 7 has type: 160
+control-set-start with theta: 1 has type: 198
+control-set-start with theta: 2 has type: 211
+control-set-start with theta: 8 has type: 276
+control-set-start with theta: 12 has type: 306
+in goal type: 0 ends (or equal starts) prims-in-theta: 0
+in goal type: 9 ends (or equal starts) prims-in-theta: 14
+in goal type: 18 ends (or equal starts) prims-in-theta: 15
+in goal type: 29 ends (or equal starts) prims-in-theta: 13
+in goal type: 46 ends (or equal starts) prims-in-theta: 12
+in goal type: 55 ends (or equal starts) prims-in-theta: 10
+in goal type: 64 ends (or equal starts) prims-in-theta: 12
+in goal type: 68 ends (or equal starts) prims-in-theta: 11
+in goal type: 76 ends (or equal starts) prims-in-theta: 12
+in goal type: 90 ends (or equal starts) prims-in-theta: 9
+in goal type: 98 ends (or equal starts) prims-in-theta: 8
+in goal type: 107 ends (or equal starts) prims-in-theta: 5
+in goal type: 115 ends (or equal starts) prims-in-theta: 4
+in goal type: 122 ends (or equal starts) prims-in-theta: 4
+in goal type: 125 ends (or equal starts) prims-in-theta: 3
+in goal type: 133 ends (or equal starts) prims-in-theta: 4
+in goal type: 137 ends (or equal starts) prims-in-theta: 6
+in goal type: 147 ends (or equal starts) prims-in-theta: 4
+in goal type: 156 ends (or equal starts) prims-in-theta: 8
+in goal type: 160 ends (or equal starts) prims-in-theta: 7
+in goal type: 177 ends (or equal starts) prims-in-theta: 8
+in goal type: 198 ends (or equal starts) prims-in-theta: 1
+in goal type: 211 ends (or equal starts) prims-in-theta: 2
+in goal type: 223 ends (or equal starts) prims-in-theta: 4
+in goal type: 233 ends (or equal starts) prims-in-theta: 0
+in goal type: 241 ends (or equal starts) prims-in-theta: 0
+in goal type: 276 ends (or equal starts) prims-in-theta: 8
+in goal type: 306 ends (or equal starts) prims-in-theta: 12
+in goal type: 319 ends (or equal starts) prims-in-theta: 8
+in goal type: 348 ends (or equal starts) prims-in-theta: 0
+in goal type: 355 ends (or equal starts) prims-in-theta: 0
+in goal type: 364 ends (or equal starts) prims-in-theta: 12
+start type is: 0
+0 1 1
+---
+start type is: 1
+0 1 2
+---
+start type is: 2
+0 1 3
+---
+start type is: 3
+0 1 4
+---
+start type is: 4
+0 1 5
+-1 0 376
+1 0 380
+---
+start type is: 5
+-1 0 6
+1 0 370
+0 1 373
+---
+start type is: 6
+0 1 7
+---
+start type is: 7
+-1 0 8
+---
+start type is: 8
+0 1 9
+---
+start type is: 9
+-1 1 10
+---
+start type is: 10
+0 1 11
+-1 0 357
+-1 1 367
+---
+start type is: 11
+-1 0 12
+---
+start type is: 12
+0 1 13
+---
+start type is: 13
+-1 0 14
+---
+start type is: 14
+0 1 15
+---
+start type is: 15
+0 1 16
+---
+start type is: 16
+-1 0 17
+0 1 354
+---
+start type is: 17
+0 1 18
+---
+start type is: 18
+0 1 19
+---
+start type is: 19
+-1 0 20
+---
+start type is: 20
+0 1 21
+---
+start type is: 21
+-1 0 22
+0 1 343
+---
+start type is: 22
+0 1 23
+---
+start type is: 23
+-1 0 24
+-1 1 342
+---
+start type is: 24
+0 1 25
+---
+start type is: 25
+-1 0 26
+---
+start type is: 26
+-1 0 27
+---
+start type is: 27
+0 1 28
+-1 0 341
+---
+start type is: 28
+-1 0 29
+---
+start type is: 29
+-1 0 30
+---
+start type is: 30
+0 1 31
+---
+start type is: 31
+-1 0 32
+---
+start type is: 32
+0 1 33
+-1 0 42
+---
+start type is: 33
+-1 0 34
+---
+start type is: 34
+0 1 35
+-1 1 41
+---
+start type is: 35
+-1 0 36
+---
+start type is: 36
+0 1 37
+---
+start type is: 37
+0 1 38
+---
+start type is: 38
+0 1 39
+-1 0 40
+---
+start type is: 39
+0 1 0
+---
+start type is: 40
+0 1 18
+---
+start type is: 41
+-1 1 9
+---
+start type is: 42
+0 1 43
+---
+start type is: 43
+-1 0 44
+---
+start type is: 44
+-1 0 45
+---
+start type is: 45
+-1 0 46
+0 1 340
+---
+start type is: 46
+-1 0 47
+0 -1 337
+---
+start type is: 47
+-1 0 48
+0 -1 336
+---
+start type is: 48
+-1 0 49
+---
+start type is: 49
+-1 0 50
+---
+start type is: 50
+-1 0 51
+0 -1 328
+0 1 332
+---
+start type is: 51
+0 -1 52
+-1 0 322
+0 1 325
+---
+start type is: 52
+-1 0 53
+---
+start type is: 53
+0 -1 54
+---
+start type is: 54
+-1 0 55
+---
+start type is: 55
+-1 -1 56
+---
+start type is: 56
+-1 0 57
+-1 -1 309
+0 -1 312
+---
+start type is: 57
+0 -1 58
+---
+start type is: 58
+-1 0 59
+---
+start type is: 59
+0 -1 60
+---
+start type is: 60
+-1 0 61
+---
+start type is: 61
+-1 0 62
+---
+start type is: 62
+-1 0 63
+0 -1 67
+---
+start type is: 63
+-1 0 64
+---
+start type is: 64
+-1 0 65
+0 1 66
+---
+start type is: 65
+-1 0 48
+---
+start type is: 66
+-1 0 29
+---
+start type is: 67
+-1 0 68
+---
+start type is: 68
+-1 0 69
+---
+start type is: 69
+0 -1 70
+---
+start type is: 70
+-1 0 71
+---
+start type is: 71
+-1 0 72
+0 -1 83
+---
+start type is: 72
+0 -1 73
+---
+start type is: 73
+-1 0 74
+---
+start type is: 74
+-1 0 75
+---
+start type is: 75
+-1 0 76
+0 -1 82
+---
+start type is: 76
+-1 0 77
+0 1 79
+---
+start type is: 77
+-1 0 48
+0 1 78
+---
+start type is: 78
+-1 0 29
+---
+start type is: 79
+-1 0 80
+---
+start type is: 80
+0 1 81
+---
+start type is: 81
+-1 0 9
+---
+start type is: 82
+-1 0 68
+---
+start type is: 83
+-1 0 84
+---
+start type is: 84
+0 -1 85
+-1 -1 308
+---
+start type is: 85
+-1 0 86
+---
+start type is: 86
+0 -1 87
+---
+start type is: 87
+0 -1 88
+---
+start type is: 88
+-1 0 89
+0 -1 307
+---
+start type is: 89
+0 -1 90
+---
+start type is: 90
+0 -1 91
+---
+start type is: 91
+-1 0 92
+---
+start type is: 92
+0 -1 93
+---
+start type is: 93
+0 -1 94
+-1 0 297
+---
+start type is: 94
+-1 0 95
+---
+start type is: 95
+0 -1 96
+---
+start type is: 96
+0 -1 97
+---
+start type is: 97
+0 -1 98
+-1 0 296
+---
+start type is: 98
+0 -1 99
+1 0 293
+---
+start type is: 99
+0 -1 100
+1 0 292
+---
+start type is: 100
+0 -1 101
+---
+start type is: 101
+0 -1 102
+---
+start type is: 102
+1 0 103
+-1 0 278
+0 -1 282
+---
+start type is: 103
+0 -1 104
+---
+start type is: 104
+1 0 105
+---
+start type is: 105
+0 -1 106
+---
+start type is: 106
+1 0 107
+---
+start type is: 107
+1 0 108
+---
+start type is: 108
+0 -1 109
+---
+start type is: 109
+1 0 110
+---
+start type is: 110
+1 0 111
+0 -1 268
+---
+start type is: 111
+0 -1 112
+---
+start type is: 112
+1 0 113
+---
+start type is: 113
+1 0 114
+---
+start type is: 114
+1 0 115
+0 -1 267
+---
+start type is: 115
+1 0 116
+0 1 264
+---
+start type is: 116
+1 0 117
+0 1 263
+---
+start type is: 117
+1 0 118
+---
+start type is: 118
+1 0 119
+---
+start type is: 119
+1 0 120
+0 -1 255
+0 1 259
+---
+start type is: 120
+1 0 121
+0 -1 249
+0 1 252
+---
+start type is: 121
+1 0 122
+0 1 124
+0 -1 248
+---
+start type is: 122
+1 0 123
+---
+start type is: 123
+1 0 117
+---
+start type is: 124
+1 0 125
+---
+start type is: 125
+1 0 126
+---
+start type is: 126
+0 1 127
+---
+start type is: 127
+1 0 128
+---
+start type is: 128
+1 0 129
+0 1 190
+---
+start type is: 129
+0 1 130
+---
+start type is: 130
+1 0 131
+---
+start type is: 131
+1 0 132
+---
+start type is: 132
+1 0 133
+0 1 189
+---
+start type is: 133
+0 -1 134
+1 0 187
+---
+start type is: 134
+1 0 135
+---
+start type is: 135
+0 -1 136
+---
+start type is: 136
+1 0 137
+---
+start type is: 137
+1 -1 138
+---
+start type is: 138
+1 0 139
+0 -1 149
+1 -1 184
+---
+start type is: 139
+0 -1 140
+---
+start type is: 140
+1 0 141
+---
+start type is: 141
+0 -1 142
+---
+start type is: 142
+1 0 143
+---
+start type is: 143
+1 0 144
+---
+start type is: 144
+0 -1 145
+1 0 146
+---
+start type is: 145
+1 0 107
+---
+start type is: 146
+1 0 147
+---
+start type is: 147
+1 0 123
+0 1 148
+---
+start type is: 148
+1 0 125
+---
+start type is: 149
+1 0 150
+---
+start type is: 150
+0 -1 151
+---
+start type is: 151
+1 0 152
+---
+start type is: 152
+0 -1 153
+---
+start type is: 153
+0 -1 154
+---
+start type is: 154
+0 -1 155
+1 0 159
+---
+start type is: 155
+0 -1 156
+---
+start type is: 156
+0 -1 157
+-1 0 158
+---
+start type is: 157
+0 -1 100
+---
+start type is: 158
+0 -1 90
+---
+start type is: 159
+0 -1 160
+---
+start type is: 160
+0 -1 161
+---
+start type is: 161
+1 0 162
+---
+start type is: 162
+0 -1 163
+---
+start type is: 163
+1 0 164
+0 -1 173
+---
+start type is: 164
+0 -1 165
+---
+start type is: 165
+1 0 166
+1 -1 172
+---
+start type is: 166
+0 -1 167
+---
+start type is: 167
+1 0 168
+---
+start type is: 168
+1 0 169
+---
+start type is: 169
+1 0 170
+0 -1 171
+---
+start type is: 170
+1 0 122
+---
+start type is: 171
+1 0 107
+---
+start type is: 172
+1 -1 137
+---
+start type is: 173
+1 0 174
+---
+start type is: 174
+0 -1 175
+---
+start type is: 175
+0 -1 176
+---
+start type is: 176
+0 -1 177
+1 0 183
+---
+start type is: 177
+0 -1 178
+-1 0 180
+---
+start type is: 178
+0 -1 100
+-1 0 179
+---
+start type is: 179
+0 -1 90
+---
+start type is: 180
+0 -1 181
+---
+start type is: 181
+-1 0 182
+---
+start type is: 182
+0 -1 55
+---
+start type is: 183
+0 -1 160
+---
+start type is: 184
+1 -1 185
+---
+start type is: 185
+1 -1 186
+---
+start type is: 186
+1 -1 137
+---
+start type is: 187
+1 0 117
+0 -1 188
+---
+start type is: 188
+1 0 107
+---
+start type is: 189
+1 0 125
+---
+start type is: 190
+1 0 191
+---
+start type is: 191
+0 1 192
+1 1 247
+---
+start type is: 192
+1 0 193
+---
+start type is: 193
+0 1 194
+---
+start type is: 194
+0 1 195
+---
+start type is: 195
+0 1 196
+1 0 197
+---
+start type is: 196
+0 1 0
+---
+start type is: 197
+0 1 198
+---
+start type is: 198
+0 1 199
+---
+start type is: 199
+1 0 200
+---
+start type is: 200
+0 1 201
+---
+start type is: 201
+1 0 202
+0 1 236
+---
+start type is: 202
+0 1 203
+---
+start type is: 203
+1 0 204
+1 1 210
+---
+start type is: 204
+0 1 205
+---
+start type is: 205
+1 0 206
+---
+start type is: 206
+1 0 207
+---
+start type is: 207
+1 0 208
+0 1 209
+---
+start type is: 208
+1 0 122
+---
+start type is: 209
+1 0 125
+---
+start type is: 210
+1 1 211
+---
+start type is: 211
+1 1 212
+---
+start type is: 212
+1 1 213
+1 0 216
+0 1 226
+---
+start type is: 213
+1 1 214
+---
+start type is: 214
+1 1 215
+---
+start type is: 215
+1 1 211
+---
+start type is: 216
+0 1 217
+---
+start type is: 217
+1 0 218
+---
+start type is: 218
+0 1 219
+---
+start type is: 219
+1 0 220
+---
+start type is: 220
+1 0 221
+---
+start type is: 221
+1 0 222
+0 1 225
+---
+start type is: 222
+1 0 223
+---
+start type is: 223
+1 0 123
+0 -1 224
+---
+start type is: 224
+1 0 107
+---
+start type is: 225
+1 0 125
+---
+start type is: 226
+1 0 227
+---
+start type is: 227
+0 1 228
+---
+start type is: 228
+1 0 229
+---
+start type is: 229
+0 1 230
+---
+start type is: 230
+0 1 231
+---
+start type is: 231
+0 1 232
+1 0 235
+---
+start type is: 232
+0 1 233
+---
+start type is: 233
+0 1 1
+-1 0 234
+---
+start type is: 234
+0 1 18
+---
+start type is: 235
+0 1 198
+---
+start type is: 236
+1 0 237
+---
+start type is: 237
+0 1 238
+---
+start type is: 238
+0 1 239
+---
+start type is: 239
+1 0 240
+0 1 241
+---
+start type is: 240
+0 1 198
+---
+start type is: 241
+0 1 242
+-1 0 244
+---
+start type is: 242
+0 1 2
+-1 0 243
+---
+start type is: 243
+0 1 18
+---
+start type is: 244
+0 1 245
+---
+start type is: 245
+-1 0 246
+---
+start type is: 246
+0 1 9
+---
+start type is: 247
+1 1 211
+---
+start type is: 248
+1 0 107
+---
+start type is: 249
+1 0 250
+---
+start type is: 250
+0 -1 251
+---
+start type is: 251
+1 0 137
+---
+start type is: 252
+1 0 253
+---
+start type is: 253
+0 1 254
+---
+start type is: 254
+1 0 211
+---
+start type is: 255
+1 0 256
+---
+start type is: 256
+0 -1 257
+---
+start type is: 257
+1 0 258
+---
+start type is: 258
+0 -1 160
+---
+start type is: 259
+1 0 260
+---
+start type is: 260
+0 1 261
+---
+start type is: 261
+1 0 262
+---
+start type is: 262
+0 1 198
+---
+start type is: 263
+1 0 125
+---
+start type is: 264
+1 0 265
+---
+start type is: 265
+0 1 266
+---
+start type is: 266
+1 0 211
+---
+start type is: 267
+1 0 107
+---
+start type is: 268
+1 0 269
+---
+start type is: 269
+1 -1 270
+0 -1 271
+---
+start type is: 270
+1 -1 137
+---
+start type is: 271
+1 0 272
+---
+start type is: 272
+0 -1 273
+---
+start type is: 273
+0 -1 274
+---
+start type is: 274
+0 -1 275
+1 0 277
+---
+start type is: 275
+0 -1 276
+---
+start type is: 276
+0 -1 157
+---
+start type is: 277
+0 -1 160
+---
+start type is: 278
+0 -1 279
+---
+start type is: 279
+-1 0 280
+---
+start type is: 280
+0 -1 281
+---
+start type is: 281
+-1 0 68
+---
+start type is: 282
+0 -1 283
+1 0 286
+-1 0 289
+---
+start type is: 283
+0 -1 276
+-1 0 284
+1 0 285
+---
+start type is: 284
+0 -1 90
+---
+start type is: 285
+0 -1 160
+---
+start type is: 286
+0 -1 287
+---
+start type is: 287
+1 0 288
+---
+start type is: 288
+0 -1 137
+---
+start type is: 289
+0 -1 290
+---
+start type is: 290
+-1 0 291
+---
+start type is: 291
+0 -1 55
+---
+start type is: 292
+0 -1 160
+---
+start type is: 293
+0 -1 294
+---
+start type is: 294
+1 0 295
+---
+start type is: 295
+0 -1 137
+---
+start type is: 296
+0 -1 90
+---
+start type is: 297
+0 -1 298
+---
+start type is: 298
+-1 -1 299
+-1 0 300
+---
+start type is: 299
+-1 -1 55
+---
+start type is: 300
+0 -1 301
+---
+start type is: 301
+-1 0 302
+---
+start type is: 302
+-1 0 303
+---
+start type is: 303
+0 -1 304
+-1 0 305
+---
+start type is: 304
+-1 0 68
+---
+start type is: 305
+-1 0 306
+---
+start type is: 306
+-1 0 65
+---
+start type is: 307
+0 -1 276
+---
+start type is: 308
+-1 -1 55
+---
+start type is: 309
+-1 -1 310
+---
+start type is: 310
+-1 -1 311
+---
+start type is: 311
+-1 -1 55
+---
+start type is: 312
+-1 0 313
+---
+start type is: 313
+0 -1 314
+---
+start type is: 314
+-1 0 315
+---
+start type is: 315
+0 -1 316
+---
+start type is: 316
+0 -1 317
+---
+start type is: 317
+0 -1 318
+-1 0 321
+---
+start type is: 318
+0 -1 319
+---
+start type is: 319
+0 -1 157
+1 0 320
+---
+start type is: 320
+0 -1 160
+---
+start type is: 321
+0 -1 90
+---
+start type is: 322
+0 -1 323
+0 1 324
+-1 0 306
+---
+start type is: 323
+-1 0 68
+---
+start type is: 324
+-1 0 29
+---
+start type is: 325
+-1 0 326
+---
+start type is: 326
+0 1 327
+---
+start type is: 327
+-1 0 9
+---
+start type is: 328
+-1 0 329
+---
+start type is: 329
+0 -1 330
+---
+start type is: 330
+-1 0 331
+---
+start type is: 331
+0 -1 90
+---
+start type is: 332
+-1 0 333
+---
+start type is: 333
+0 1 334
+---
+start type is: 334
+-1 0 335
+---
+start type is: 335
+0 1 18
+---
+start type is: 336
+-1 0 68
+---
+start type is: 337
+-1 0 338
+---
+start type is: 338
+0 -1 339
+---
+start type is: 339
+-1 0 55
+---
+start type is: 340
+-1 0 29
+---
+start type is: 341
+-1 0 306
+---
+start type is: 342
+-1 1 9
+---
+start type is: 343
+-1 0 344
+---
+start type is: 344
+0 1 345
+---
+start type is: 345
+0 1 346
+---
+start type is: 346
+-1 0 347
+0 1 348
+---
+start type is: 347
+0 1 18
+---
+start type is: 348
+0 1 349
+1 0 351
+---
+start type is: 349
+0 1 2
+1 0 350
+---
+start type is: 350
+0 1 198
+---
+start type is: 351
+0 1 352
+---
+start type is: 352
+1 0 353
+---
+start type is: 353
+0 1 211
+---
+start type is: 354
+0 1 355
+---
+start type is: 355
+0 1 1
+1 0 356
+---
+start type is: 356
+0 1 198
+---
+start type is: 357
+0 1 358
+---
+start type is: 358
+-1 0 359
+---
+start type is: 359
+0 1 360
+---
+start type is: 360
+-1 0 361
+---
+start type is: 361
+-1 0 362
+---
+start type is: 362
+-1 0 363
+0 1 366
+---
+start type is: 363
+-1 0 364
+---
+start type is: 364
+-1 0 65
+0 -1 365
+---
+start type is: 365
+-1 0 68
+---
+start type is: 366
+-1 0 29
+---
+start type is: 367
+-1 1 368
+---
+start type is: 368
+-1 1 369
+---
+start type is: 369
+-1 1 9
+---
+start type is: 370
+0 1 371
+---
+start type is: 371
+1 0 372
+---
+start type is: 372
+0 1 211
+---
+start type is: 373
+1 0 374
+-1 0 375
+0 1 0
+---
+start type is: 374
+0 1 198
+---
+start type is: 375
+0 1 18
+---
+start type is: 376
+0 1 377
+---
+start type is: 377
+-1 0 378
+---
+start type is: 378
+0 1 379
+---
+start type is: 379
+-1 0 29
+---
+start type is: 380
+0 1 381
+---
+start type is: 381
+1 0 382
+---
+start type is: 382
+0 1 383
+---
+start type is: 383
+1 0 125
+---
+add_info for type: 0 is: 0 0
+add_info for type: 1 is: 0 0
+add_info for type: 2 is: 0 0
+add_info for type: 3 is: 0 0
+add_info for type: 4 is: 0 1
+add_info for type: 5 is: 0 1
+add_info for type: 6 is: 0 0
+add_info for type: 7 is: 0 2
+add_info for type: 8 is: 0 0
+add_info for type: 9 is: 14 3
+add_info for type: 10 is: 14 4
+add_info for type: 11 is: 14 2
+add_info for type: 12 is: 14 0
+add_info for type: 13 is: 14 2
+add_info for type: 14 is: 14 0
+add_info for type: 15 is: 14 0
+add_info for type: 16 is: 14 5
+add_info for type: 17 is: 14 0
+add_info for type: 18 is: 15 0
+add_info for type: 19 is: 15 2
+add_info for type: 20 is: 15 0
+add_info for type: 21 is: 15 5
+add_info for type: 22 is: 15 0
+add_info for type: 23 is: 15 6
+add_info for type: 24 is: 15 0
+add_info for type: 25 is: 15 2
+add_info for type: 26 is: 15 2
+add_info for type: 27 is: 15 5
+add_info for type: 28 is: 15 2
+add_info for type: 29 is: 13 2
+add_info for type: 30 is: 13 0
+add_info for type: 31 is: 13 2
+add_info for type: 32 is: 13 5
+add_info for type: 33 is: 13 2
+add_info for type: 34 is: 13 7
+add_info for type: 35 is: 13 2
+add_info for type: 36 is: 13 0
+add_info for type: 37 is: 13 0
+add_info for type: 38 is: 13 5
+add_info for type: 39 is: 13 0
+add_info for type: 40 is: 13 0
+add_info for type: 41 is: 13 3
+add_info for type: 42 is: 13 0
+add_info for type: 43 is: 13 2
+add_info for type: 44 is: 13 2
+add_info for type: 45 is: 13 5
+add_info for type: 46 is: 12 8
+add_info for type: 47 is: 12 8
+add_info for type: 48 is: 12 2
+add_info for type: 49 is: 12 2
+add_info for type: 50 is: 12 9
+add_info for type: 51 is: 12 9
+add_info for type: 52 is: 12 2
+add_info for type: 53 is: 12 10
+add_info for type: 54 is: 12 2
+add_info for type: 55 is: 10 11
+add_info for type: 56 is: 10 12
+add_info for type: 57 is: 10 10
+add_info for type: 58 is: 10 2
+add_info for type: 59 is: 10 10
+add_info for type: 60 is: 10 2
+add_info for type: 61 is: 10 2
+add_info for type: 62 is: 10 8
+add_info for type: 63 is: 10 2
+add_info for type: 64 is: 12 5
+add_info for type: 65 is: 12 2
+add_info for type: 66 is: 10 2
+add_info for type: 67 is: 10 2
+add_info for type: 68 is: 11 2
+add_info for type: 69 is: 11 10
+add_info for type: 70 is: 11 2
+add_info for type: 71 is: 11 8
+add_info for type: 72 is: 11 10
+add_info for type: 73 is: 11 2
+add_info for type: 74 is: 11 2
+add_info for type: 75 is: 11 8
+add_info for type: 76 is: 12 5
+add_info for type: 77 is: 11 5
+add_info for type: 78 is: 11 2
+add_info for type: 79 is: 11 2
+add_info for type: 80 is: 11 0
+add_info for type: 81 is: 11 2
+add_info for type: 82 is: 11 2
+add_info for type: 83 is: 11 2
+add_info for type: 84 is: 11 13
+add_info for type: 85 is: 11 2
+add_info for type: 86 is: 11 10
+add_info for type: 87 is: 11 10
+add_info for type: 88 is: 11 8
+add_info for type: 89 is: 11 10
+add_info for type: 90 is: 9 10
+add_info for type: 91 is: 9 2
+add_info for type: 92 is: 9 10
+add_info for type: 93 is: 9 8
+add_info for type: 94 is: 9 2
+add_info for type: 95 is: 9 10
+add_info for type: 96 is: 9 10
+add_info for type: 97 is: 9 8
+add_info for type: 98 is: 8 14
+add_info for type: 99 is: 8 14
+add_info for type: 100 is: 8 10
+add_info for type: 101 is: 8 10
+add_info for type: 102 is: 8 15
+add_info for type: 103 is: 8 10
+add_info for type: 104 is: 8 16
+add_info for type: 105 is: 8 10
+add_info for type: 106 is: 8 16
+add_info for type: 107 is: 5 16
+add_info for type: 108 is: 5 10
+add_info for type: 109 is: 5 16
+add_info for type: 110 is: 5 14
+add_info for type: 111 is: 5 10
+add_info for type: 112 is: 5 16
+add_info for type: 113 is: 5 16
+add_info for type: 114 is: 5 14
+add_info for type: 115 is: 4 17
+add_info for type: 116 is: 4 17
+add_info for type: 117 is: 4 16
+add_info for type: 118 is: 4 16
+add_info for type: 119 is: 4 18
+add_info for type: 120 is: 4 18
+add_info for type: 121 is: 4 18
+add_info for type: 122 is: 4 16
+add_info for type: 123 is: 4 16
+add_info for type: 124 is: 4 16
+add_info for type: 125 is: 3 16
+add_info for type: 126 is: 3 0
+add_info for type: 127 is: 3 16
+add_info for type: 128 is: 3 17
+add_info for type: 129 is: 3 0
+add_info for type: 130 is: 3 16
+add_info for type: 131 is: 3 16
+add_info for type: 132 is: 3 17
+add_info for type: 133 is: 4 14
+add_info for type: 134 is: 3 16
+add_info for type: 135 is: 3 10
+add_info for type: 136 is: 3 16
+add_info for type: 137 is: 6 19
+add_info for type: 138 is: 6 20
+add_info for type: 139 is: 6 10
+add_info for type: 140 is: 6 16
+add_info for type: 141 is: 6 10
+add_info for type: 142 is: 6 16
+add_info for type: 143 is: 6 16
+add_info for type: 144 is: 6 14
+add_info for type: 145 is: 6 16
+add_info for type: 146 is: 6 16
+add_info for type: 147 is: 4 17
+add_info for type: 148 is: 6 16
+add_info for type: 149 is: 6 16
+add_info for type: 150 is: 6 10
+add_info for type: 151 is: 6 16
+add_info for type: 152 is: 6 10
+add_info for type: 153 is: 6 10
+add_info for type: 154 is: 6 14
+add_info for type: 155 is: 6 10
+add_info for type: 156 is: 8 8
+add_info for type: 157 is: 8 10
+add_info for type: 158 is: 6 10
+add_info for type: 159 is: 6 10
+add_info for type: 160 is: 7 10
+add_info for type: 161 is: 7 16
+add_info for type: 162 is: 7 10
+add_info for type: 163 is: 7 14
+add_info for type: 164 is: 7 10
+add_info for type: 165 is: 7 21
+add_info for type: 166 is: 7 10
+add_info for type: 167 is: 7 16
+add_info for type: 168 is: 7 16
+add_info for type: 169 is: 7 14
+add_info for type: 170 is: 7 16
+add_info for type: 171 is: 7 16
+add_info for type: 172 is: 7 19
+add_info for type: 173 is: 7 16
+add_info for type: 174 is: 7 10
+add_info for type: 175 is: 7 10
+add_info for type: 176 is: 7 14
+add_info for type: 177 is: 8 8
+add_info for type: 178 is: 7 8
+add_info for type: 179 is: 7 10
+add_info for type: 180 is: 7 10
+add_info for type: 181 is: 7 2
+add_info for type: 182 is: 7 10
+add_info for type: 183 is: 7 10
+add_info for type: 184 is: 6 19
+add_info for type: 185 is: 6 19
+add_info for type: 186 is: 6 19
+add_info for type: 187 is: 3 14
+add_info for type: 188 is: 3 16
+add_info for type: 189 is: 3 16
+add_info for type: 190 is: 3 16
+add_info for type: 191 is: 3 22
+add_info for type: 192 is: 3 16
+add_info for type: 193 is: 3 0
+add_info for type: 194 is: 3 0
+add_info for type: 195 is: 3 17
+add_info for type: 196 is: 3 0
+add_info for type: 197 is: 3 0
+add_info for type: 198 is: 1 0
+add_info for type: 199 is: 1 16
+add_info for type: 200 is: 1 0
+add_info for type: 201 is: 1 17
+add_info for type: 202 is: 1 0
+add_info for type: 203 is: 1 23
+add_info for type: 204 is: 1 0
+add_info for type: 205 is: 1 16
+add_info for type: 206 is: 1 16
+add_info for type: 207 is: 1 17
+add_info for type: 208 is: 1 16
+add_info for type: 209 is: 1 16
+add_info for type: 210 is: 1 24
+add_info for type: 211 is: 2 24
+add_info for type: 212 is: 2 25
+add_info for type: 213 is: 2 24
+add_info for type: 214 is: 2 24
+add_info for type: 215 is: 2 24
+add_info for type: 216 is: 2 0
+add_info for type: 217 is: 2 16
+add_info for type: 218 is: 2 0
+add_info for type: 219 is: 2 16
+add_info for type: 220 is: 2 16
+add_info for type: 221 is: 2 17
+add_info for type: 222 is: 2 16
+add_info for type: 223 is: 4 14
+add_info for type: 224 is: 2 16
+add_info for type: 225 is: 2 16
+add_info for type: 226 is: 2 16
+add_info for type: 227 is: 2 0
+add_info for type: 228 is: 2 16
+add_info for type: 229 is: 2 0
+add_info for type: 230 is: 2 0
+add_info for type: 231 is: 2 17
+add_info for type: 232 is: 2 0
+add_info for type: 233 is: 0 5
+add_info for type: 234 is: 2 0
+add_info for type: 235 is: 2 0
+add_info for type: 236 is: 1 16
+add_info for type: 237 is: 1 0
+add_info for type: 238 is: 1 0
+add_info for type: 239 is: 1 17
+add_info for type: 240 is: 1 0
+add_info for type: 241 is: 0 5
+add_info for type: 242 is: 0 5
+add_info for type: 243 is: 1 0
+add_info for type: 244 is: 1 0
+add_info for type: 245 is: 1 2
+add_info for type: 246 is: 1 0
+add_info for type: 247 is: 3 24
+add_info for type: 248 is: 4 16
+add_info for type: 249 is: 4 16
+add_info for type: 250 is: 4 10
+add_info for type: 251 is: 4 16
+add_info for type: 252 is: 4 16
+add_info for type: 253 is: 4 0
+add_info for type: 254 is: 4 16
+add_info for type: 255 is: 4 16
+add_info for type: 256 is: 4 10
+add_info for type: 257 is: 4 16
+add_info for type: 258 is: 4 10
+add_info for type: 259 is: 4 16
+add_info for type: 260 is: 4 0
+add_info for type: 261 is: 4 16
+add_info for type: 262 is: 4 0
+add_info for type: 263 is: 5 16
+add_info for type: 264 is: 5 16
+add_info for type: 265 is: 5 0
+add_info for type: 266 is: 5 16
+add_info for type: 267 is: 5 16
+add_info for type: 268 is: 5 16
+add_info for type: 269 is: 5 26
+add_info for type: 270 is: 5 19
+add_info for type: 271 is: 5 16
+add_info for type: 272 is: 5 10
+add_info for type: 273 is: 5 10
+add_info for type: 274 is: 5 14
+add_info for type: 275 is: 5 10
+add_info for type: 276 is: 8 10
+add_info for type: 277 is: 5 10
+add_info for type: 278 is: 8 10
+add_info for type: 279 is: 8 2
+add_info for type: 280 is: 8 10
+add_info for type: 281 is: 8 2
+add_info for type: 282 is: 8 15
+add_info for type: 283 is: 8 15
+add_info for type: 284 is: 8 10
+add_info for type: 285 is: 8 10
+add_info for type: 286 is: 8 10
+add_info for type: 287 is: 8 16
+add_info for type: 288 is: 8 10
+add_info for type: 289 is: 8 10
+add_info for type: 290 is: 8 2
+add_info for type: 291 is: 8 10
+add_info for type: 292 is: 9 10
+add_info for type: 293 is: 9 10
+add_info for type: 294 is: 9 16
+add_info for type: 295 is: 9 10
+add_info for type: 296 is: 9 10
+add_info for type: 297 is: 9 10
+add_info for type: 298 is: 9 27
+add_info for type: 299 is: 9 11
+add_info for type: 300 is: 9 10
+add_info for type: 301 is: 9 2
+add_info for type: 302 is: 9 2
+add_info for type: 303 is: 9 8
+add_info for type: 304 is: 9 2
+add_info for type: 305 is: 9 2
+add_info for type: 306 is: 12 2
+add_info for type: 307 is: 11 10
+add_info for type: 308 is: 11 11
+add_info for type: 309 is: 10 11
+add_info for type: 310 is: 10 11
+add_info for type: 311 is: 10 11
+add_info for type: 312 is: 10 2
+add_info for type: 313 is: 10 10
+add_info for type: 314 is: 10 2
+add_info for type: 315 is: 10 10
+add_info for type: 316 is: 10 10
+add_info for type: 317 is: 10 8
+add_info for type: 318 is: 10 10
+add_info for type: 319 is: 8 14
+add_info for type: 320 is: 10 10
+add_info for type: 321 is: 10 10
+add_info for type: 322 is: 12 9
+add_info for type: 323 is: 12 2
+add_info for type: 324 is: 12 2
+add_info for type: 325 is: 12 2
+add_info for type: 326 is: 12 0
+add_info for type: 327 is: 12 2
+add_info for type: 328 is: 12 2
+add_info for type: 329 is: 12 10
+add_info for type: 330 is: 12 2
+add_info for type: 331 is: 12 10
+add_info for type: 332 is: 12 2
+add_info for type: 333 is: 12 0
+add_info for type: 334 is: 12 2
+add_info for type: 335 is: 12 0
+add_info for type: 336 is: 13 2
+add_info for type: 337 is: 13 2
+add_info for type: 338 is: 13 10
+add_info for type: 339 is: 13 2
+add_info for type: 340 is: 13 2
+add_info for type: 341 is: 15 2
+add_info for type: 342 is: 15 3
+add_info for type: 343 is: 15 2
+add_info for type: 344 is: 15 0
+add_info for type: 345 is: 15 0
+add_info for type: 346 is: 15 5
+add_info for type: 347 is: 15 0
+add_info for type: 348 is: 0 17
+add_info for type: 349 is: 0 17
+add_info for type: 350 is: 15 0
+add_info for type: 351 is: 15 0
+add_info for type: 352 is: 15 16
+add_info for type: 353 is: 15 0
+add_info for type: 354 is: 14 0
+add_info for type: 355 is: 0 17
+add_info for type: 356 is: 14 0
+add_info for type: 357 is: 14 0
+add_info for type: 358 is: 14 2
+add_info for type: 359 is: 14 0
+add_info for type: 360 is: 14 2
+add_info for type: 361 is: 14 2
+add_info for type: 362 is: 14 5
+add_info for type: 363 is: 14 2
+add_info for type: 364 is: 12 8
+add_info for type: 365 is: 14 2
+add_info for type: 366 is: 14 2
+add_info for type: 367 is: 14 3
+add_info for type: 368 is: 14 3
+add_info for type: 369 is: 14 3
+add_info for type: 370 is: 0 0
+add_info for type: 371 is: 0 16
+add_info for type: 372 is: 0 0
+add_info for type: 373 is: 0 1
+add_info for type: 374 is: 0 0
+add_info for type: 375 is: 0 0
+add_info for type: 376 is: 0 0
+add_info for type: 377 is: 0 2
+add_info for type: 378 is: 0 0
+add_info for type: 379 is: 0 2
+add_info for type: 380 is: 0 0
+add_info for type: 381 is: 0 16
+add_info for type: 382 is: 0 0
+add_info for type: 383 is: 0 16
