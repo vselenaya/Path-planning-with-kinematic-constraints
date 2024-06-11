@@ -11,8 +11,6 @@
 
 ### Структура проекта
 
-
-#### Структура проекта:
 ```
 ├── Alternative solution/       # Демонстрация альтернативного решения (поиск на графе типов) в виде Jupyter Notebook      
 ├── Baseline solution/          # Демонстрация базового решения (поиск на state lattice) в виде Jupyter Notebook 
