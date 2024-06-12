@@ -624,3 +624,82 @@ class TypeMesh:
         self.j = j
         self.type = type
         
+        
+        
+        
+class TypeInfo:
+    """
+    Данный класс предназначен для хранения информации о типах, которая загружается из файла.
+    """
+    
+    
+    def __init__(self, control_set: ControlSet, max_types=3000):
+        """
+        Инициализация. Создаём структуры для хранения данных.
+        
+            control_set: набор примитивов, который используется (из которого получились типы),
+            max_types: максимальное количество типов, удобно для инициализации списков.
+        """
+        
+        self.control_set = control_set
+        self.max_types = max_types
+        
+        # список, где по номеру type (типу) в качестве индекса получаем список соседей вида (di, dj, t) - шаговый сдвиг в него и его тип:
+        self.successors: List[Tuple[int, int, int]] = list(range(max_types)) 
+        
+        # по номеру угла получаем тип начальной ячейки, в конфигурации которой начинаются примитивы control set для этого угла:
+        self.start_type: List[int] = list(range(self.control_set.theta_amount))  
+        
+        # по type получаем список углов theta, в которых заканчиваются примитивы в конфигурации с номером type (и None, если никакой примитив не кончается):
+        self.goal_theta_by_type: List[Optional[int]] = [None] * max_types
+        
+        # по type получаем дополнительные значения, по которым можно склеивать вершины:
+        self.add_info_type: List[int] = list(range(max_types))  
+
+
+    def load_types(self, file: str) -> Self:
+        """
+        Данная функция читает файл с типами (=номерами конфигураций) и заполняет структуры. В качестве формата файла используется тот,
+        каким этот файл генерировали при нумерации конфигураций в numbering_configuration.py
+        
+            file: имя файла, откуда загружать типы.
+        """
+        
+        with open(file, "r") as f:
+            while 1:  # в цикле читаем по строчке файла
+                line = f.readline()
+                if line == "":  # если дошли до конца файла, 
+                    break
+                    
+                if "control-set-start with theta:" in line:
+                    theta, type = int(line.split()[3]), int(line.split()[-1])
+                    self.start_type[theta] = type
+                    continue
+    
+                if "in goal type:" in line:
+                    type = int(line.split()[3])
+                    thetas = list(map(int, line.split()[9:]))
+                    self.goal_theta_by_type[type] = thetas
+                    continue
+                    
+                if "start type is:" in line:
+                    type = int(line.split()[-1])
+                    self.successors[type] = []
+                    while 1:
+                        line = f.readline()
+                        if "---" in line:
+                            break
+                        i, j, t = map(int, line.split())
+                        self.successors[type].append((i, j, t))
+                    continue
+    
+                if "add_info for type:" in line:
+                    type = int(line.split()[3])
+                    info = 0
+                    for i in tuple(map(int, line.split()[5:])):
+                        info = info * 1000 + i  # все числа дополнительной информации (например угол типа и характеристику типа) склеиваем в одной число, чтобы удобнее
+                                                # (считаем, что числа доп информации < 1000, поэтому умножаем так)
+                    self.add_info_type[type] = info
+                    continue
+        return self
+        
