@@ -534,9 +534,9 @@ class ControlSet:
                 return find_prim  # просто возвращаем найденный примитив
                                   # заметим, что продолжать перебор далее нет смысла, так как мы считаем, что между двумя состояниями может быть только один примитив (что логично)
         
-        print(start.i, start.j, start.theta)
-        print(goal.i, goal.j, goal.theta)
-        raise Exception("Примитив не найден!")  # если не нашли примитив, сообщаем об этом
+        #print(start.i, start.j, start.theta)
+        #print(goal.i, goal.j, goal.theta)
+        raise Exception(f"Примитив не найден! Был запрос поиска между состояниями: {start.i, start.j, start.theta} и {goal.i, goal.j, goal.theta}")  # если не нашли примитив, сообщаем об этом
     
 
     def load_primitives(self, file: str) -> Self:    
