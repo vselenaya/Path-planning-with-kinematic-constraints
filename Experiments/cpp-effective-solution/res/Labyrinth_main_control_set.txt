@@ -1,0 +1,67 @@
+TOTAL TESTS: 13320
+=== Test: 0 ===
+start: 733 174 14
+goal: 734 171 14
+---
+result PRIM: 1 71 42.9419
+time PRIMS: 0.016816
+---
+result COST: 1 182 54.8284
+time COST: 0.005664
+---
+result TYPES: 1 1147 54.8284
+time TYPES: 0.015648
+---
+result PARALL: 1 1147 54.8284
+time PARALL 20: 0.02005
+---
+result PARALL: 1 1147 54.8284
+time PARALL 100: 0.00476
+---
+result PARALL: 1 1147 54.8284
+time PARALL 500: 0.004444
+---
+=== Test: 1 ===
+start: 733 174 5
+goal: 734 171 2
+---
+result PRIM: 1 372 46.9918
+time PRIMS: 0.006729
+---
+result COST: 1 733 57.4853
+time COST: 0.015846
+---
+result TYPES: 1 3450 59.4142
+time TYPES: 0.01574
+---
+result PARALL: 1 3450 59.4142
+time PARALL 20: 0.019606
+---
+result PARALL: 1 3450 59.4142
+time PARALL 100: 0.015852
+---
+result PARALL: 1 3450 59.4142
+time PARALL 500: 0.01354
+---
+=== Test: 2 ===
+start: 733 174 2
+goal: 734 171 0
+---
+result PRIM: 1 108 41.7545
+time PRIMS: 0.001914
+---
+result COST: 1 254 52.8284
+time COST: 0.004945
+---
+result TYPES: 1 1540 52.8284
+time TYPES: 0.005979
+---
+result PARALL: 1 1540 52.8284
+time PARALL 20: 0.008541
+---
+result PARALL: 1 1540 52.8284
+time PARALL 100: 0.006524
+---
+result PARALL: 1 1540 52.8284
+time PARALL 500: 0.005823
+---
