@@ -7,6 +7,7 @@
     Theta: Дискретизация угла направления
     ControlSet: Набор control set уже сгенерированных примитивов из дискретных состояний вида (0,0,theta_l)
     TypeMesh: Типовая ячейка (= вершина графа типов)
+    TypeInfo: Структура для хранения все информации о типах ячеек, соседях для каждого типа
 """
 
 
@@ -21,6 +22,7 @@ import copy
 from typing import List  # позволяет указывать тип как список однотипных переменных: запись x: List[int] означает, что x - это список (неограниченного) размера, каждый элемент которого имеет тип int
 # from typing import Self  # позволяет указывать возвращаемый тип из функции, которая должна вернуть self 
 from typing_extensions import Self  # Self появился в typing только в 3.11 Питон... в ранних версиях используем typing_extensions
+from typing import Tuple, Optional
 
 
 
@@ -702,4 +704,3 @@ class TypeInfo:
                     self.add_info_type[type] = info
                     continue
         return self
-        
